@@ -24,6 +24,8 @@ hi Title                guifg=#f6f3e8 guibg=NONE        gui=bold
 hi NonText              guifg=#808080 guibg=#0D1021     gui=none
 
 hi Visual       gui=reverse
+hi Folded       guifg=#aaaaff guibg=#262626
+"hi Folded       guifg=#aaaaff guibg=#000000
 hi VertSplit    guifg=#444444 guibg=#444444
 hi StatusLine   guifg=#f6f3e8 guibg=#444444 gui=italic
 hi StatusLineNC guifg=#857b6f guibg=#444444
